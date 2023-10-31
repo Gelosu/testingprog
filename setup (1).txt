@@ -1,0 +1,31 @@
+client
+- npx create-next-app@latest
+- to run npm run dev
+
+server
+
+requirement
+- VS CODE
+- VS CODE PYTHON EXTENSION (MICROSOFT)
+
+VSCODE
+- new terminal
+- cd server
+- create Environment
+- py -3 -m venv .venv
+
+- activate Environment
+- .venv\Scripts\Activate.ps1
+
+- install flask
+- python -m pip install flask flask-cors
+
+- to run
+- python server.py
+
+# Imutils
+- pip install --upgrade imutils
+# Update pip
+- python -m pip install -U pip
+# Install scikit-image
+- python -m pip install -U scikit-image
